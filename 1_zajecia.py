@@ -1,4 +1,3 @@
-print("hello world")
 word= input("podaj słowo: ")
 def nothing_special(word):
     output_text=''
